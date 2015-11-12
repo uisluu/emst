@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbf879e1-5d28-46fe-916a-c47a8a39bf64" name="Default" comment="" />
+    <ignored path="emst.local.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="emst.local" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="case_edit.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/reg/case_edit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="283" column="0" selection-start="14525" selection-end="14525" vertical-scroll-proportion="0.0" vertical-offset="4364" max-vertical-offset="4913">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filling_field.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reg/filling_field.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="37" selection-start="124" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="952">
+              <folding>
+                <marker date="1391529120533" expanded="true" signature="274:933" placeholder="SELECT imp_c..imp_clients..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output_data_from_bd.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reg/output_data_from_bd.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="8" selection-start="305" selection-end="306" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1173">
+              <folding>
+                <marker date="1391529120538" expanded="true" signature="828:925" placeholder="SELECT id, l..imp_clients..." />
+                <marker date="1391529120538" expanded="false" signature="1072:1116" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autocompl_lastname.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reg/autocompl_lastname.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="18" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="35" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="561">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search_client_popup.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reg/search_client_popup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="58" selection-start="3354" selection-end="3354" vertical-scroll-proportion="0.52641165" vertical-offset="765" max-vertical-offset="4216">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/templates/doc/cases.html" />
+        <option value="$PROJECT_DIR$/templates/doc/cec_list.html" />
+        <option value="$PROJECT_DIR$/templates/doc/curecheck.html" />
+        <option value="$PROJECT_DIR$/templates/doc/hospital_edit.html" />
+        <option value="$PROJECT_DIR$/templates/doc/queue.html" />
+        <option value="$PROJECT_DIR$/templates/doc/rg_dir_edit.html" />
+        <option value="$PROJECT_DIR$/templates/doc/surgeries.html" />
+        <option value="$PROJECT_DIR$/library/table-old.php" />
+        <option value="$PROJECT_DIR$/library/trace-dbwinole.php" />
+        <option value="$PROJECT_DIR$/library/cases_table.php" />
+        <option value="$PROJECT_DIR$/library/common.php" />
+        <option value="$PROJECT_DIR$/doc/cases.php" />
+        <option value="$PROJECT_DIR$/doc/surgeries.php" />
+        <option value="$PROJECT_DIR$/doc/case_edit_common.php" />
+        <option value="$PROJECT_DIR$/doc/cec_list.php" />
+        <option value="$PROJECT_DIR$/doc/cec_list_pdf.php" />
+        <option value="$PROJECT_DIR$/doc/curecheck.php" />
+        <option value="$PROJECT_DIR$/doc/hospital_edit.php" />
+        <option value="$PROJECT_DIR$/doc/ill_doc_pdf.php" />
+        <option value="$PROJECT_DIR$/doc/queue.php" />
+        <option value="$PROJECT_DIR$/doc/rg_dir_edit.php" />
+        <option value="$PROJECT_DIR$/doc/rg_dir_pdf.php" />
+        <option value="$PROJECT_DIR$/chief/illdocs_check_pdf.php" />
+        <option value="$PROJECT_DIR$/chief/report_16.php" />
+        <option value="$PROJECT_DIR$/chief/report_16_pdf.php" />
+        <option value="$PROJECT_DIR$/chief/report_57.php" />
+        <option value="$PROJECT_DIR$/chief/report_57_pdf.php" />
+        <option value="$PROJECT_DIR$/chief/surgeries_report_pdf.php" />
+        <option value="$PROJECT_DIR$/templates/compile/chief/surgeries_report.html.en.php" />
+        <option value="$PROJECT_DIR$/templates/chief/surgeries_report.html" />
+        <option value="$PROJECT_DIR$/chief/surgeries_report.php" />
+        <option value="$PROJECT_DIR$/templates/chief/report_16.html" />
+        <option value="$PROJECT_DIR$/templates/chief/report_57.html" />
+        <option value="$PROJECT_DIR$/reg/ices_list_singlepage.php" />
+        <option value="$PROJECT_DIR$/templates/reg/case_edit.html" />
+        <option value="$PROJECT_DIR$/reg/ices_list_pdf.php" />
+        <option value="$PROJECT_DIR$/reg/phone_messages_list.php" />
+        <option value="$PROJECT_DIR$/reg/phone_messages_list_pdf.php" />
+        <option value="$PROJECT_DIR$/reg/ixodes_traumas_list_pdf.php" />
+        <option value="$PROJECT_DIR$/doc/cases_list_pdf.php" />
+        <option value="$PROJECT_DIR$/reg/animal_bites_list_pdf.php" />
+        <option value="$PROJECT_DIR$/reg/antitetanuses_list_pdf.php" />
+        <option value="$PROJECT_DIR$/reg/rgs_list_pdf.php" />
+        <option value="dbtable:/c312d53e/9c62a7f2-2d48-4045-b860-2c4be877f5e0/emst..imp_clients" />
+        <option value="dbtable:/c312d53e/9c62a7f2-2d48-4045-b860-2c4be877f5e0/emst..rb_vistit_targets" />
+        <option value="dbtable:/c312d53e/9c62a7f2-2d48-4045-b860-2c4be877f5e0/emst..rb_doc_types" />
+        <option value="dbtable:/c312d53e/9c62a7f2-2d48-4045-b860-2c4be877f5e0/emst..imp_addr" />
+        <option value="$PROJECT_DIR$/reg/filling_field.php" />
+        <option value="$PROJECT_DIR$/reg/output_data_from_bd.php" />
+        <option value="$PROJECT_DIR$/reg/autocompl_lastname.php" />
+        <option value="$PROJECT_DIR$/config/config.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="localhost" name="xammp" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="INTRPHP_5.5.8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emst.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emst.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emst.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emst.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emst.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emst.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emst.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emst.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emst.local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.lastSelected" value="preferences.customizations" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="RunManager" selected="PHP Remote Debug.debug">
+    <configuration default="false" name="common.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/library/common.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="CHROME" server_name="xammp" start_url="/localhost">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="debug" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" server_name="xammp" session_id="PHPSTORM">
+      <RunnerSettings RunnerId="PhpRemoteDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRemoteDebugRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Remote Debug.debug" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.common.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.common.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbf879e1-5d28-46fe-916a-c47a8a39bf64" name="Default" comment="" />
+      <created>1391013272744</created>
+      <updated>1391013272744</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32792208" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19033232" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18882175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39739415" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33876222" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doc/surgeries.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="61" selection-start="4155" selection-end="4155" vertical-scroll-proportion="-11.115385" vertical-offset="1530" max-vertical-offset="4182" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chief/illdocs_check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/rg_dir_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="39" selection-start="872" selection-end="872" vertical-scroll-proportion="0.92896175" vertical-offset="85" max-vertical-offset="3638" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/rg_dir_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="548" selection-end="548" vertical-scroll-proportion="0.6502732" vertical-offset="0" max-vertical-offset="4862" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/queue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/ill_doc_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2669" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/hospital_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3502" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/curecheck.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2584" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chief/illdocs_check_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chief/report_16.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chief/report_16_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8721" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chief/report_57.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chief/report_57_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chief/surgeries_report_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3247" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fpdf/FAQ.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5049" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fpdf/fpdf.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chief/surgeries_report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="27" selection-start="1970" selection-end="1970" vertical-scroll-proportion="-11.961538" vertical-offset="590" max-vertical-offset="1139" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/compile/chief/surgeries_report.html.en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="33" selection-start="758" selection-end="758" vertical-scroll-proportion="0.3096539" vertical-offset="102" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/compile/chief/illdocs_check.html.en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/reg/dms_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="59" selection-start="721" selection-end="721" vertical-scroll-proportion="0.6352313" vertical-offset="0" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/chief/illdocs_check.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="419" selection-end="419" vertical-scroll-proportion="0.15302491" vertical-offset="67" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/chief/surgeries_report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="234" selection-end="234" vertical-scroll-proportion="0.15124555" vertical-offset="0" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/chief/report_16.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="935" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/userroles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="55" selection-start="990" selection-end="990" vertical-scroll-proportion="-0.120567374" vertical-offset="442" max-vertical-offset="1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/chief/report_57.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="27" selection-start="614" selection-end="614" vertical-scroll-proportion="0.5425532" vertical-offset="0" max-vertical-offset="935" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/reg/ices_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.4971751" vertical-offset="530" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fpdf/fpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="642" column="5" selection-start="18607" selection-end="18607" vertical-scroll-proportion="0.90029323" vertical-offset="10471" max-vertical-offset="27965" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/case_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="337" selection-end="337" vertical-scroll-proportion="-13.198864" vertical-offset="7139" max-vertical-offset="7667" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/ices_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="82" selection-start="1076" selection-end="1076" vertical-scroll-proportion="1.0625" vertical-offset="0" max-vertical-offset="1666" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/ices_list_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="58" selection-start="3433" selection-end="3457" vertical-scroll-proportion="-2.4147727" vertical-offset="2703" max-vertical-offset="3451" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/phone_messages_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="64" selection-start="3332" selection-end="3332" vertical-scroll-proportion="1.740625" vertical-offset="684" max-vertical-offset="1921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/ixodes_traumas_list_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="27" selection-start="556" selection-end="556" vertical-scroll-proportion="1.1466275" vertical-offset="0" max-vertical-offset="3468" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/phone_messages_list_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="9" selection-start="95" selection-end="95" vertical-scroll-proportion="-8.771261" vertical-offset="3093" max-vertical-offset="3434" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/animal_bites_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="5" selection-start="2344" selection-end="2344" vertical-scroll-proportion="-0.8445748" vertical-offset="1325" max-vertical-offset="1666" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/cases_list_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="58" selection-start="2687" selection-end="2711" vertical-scroll-proportion="0.3313783" vertical-offset="1213" max-vertical-offset="3519" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/animal_bites_list_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="45" selection-start="1914" selection-end="1914" vertical-scroll-proportion="0.7096774" vertical-offset="829" max-vertical-offset="3400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/ices_list_singlepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="46" selection-start="5329" selection-end="5329" vertical-scroll-proportion="6.882698" vertical-offset="84" max-vertical-offset="3026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/rgs_list_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="210" column="25" selection-start="7918" selection-end="7918" vertical-scroll-proportion="-11.961538" vertical-offset="3191" max-vertical-offset="3740" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/doc/case_edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="14" selection-start="442" selection-end="442" vertical-scroll-proportion="-3.6229508" vertical-offset="2193" max-vertical-offset="6171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/antitetanuses_list_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="9" selection-start="1366" selection-end="1366" vertical-scroll-proportion="1.0127505" vertical-offset="260" max-vertical-offset="3128" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/rgs_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="907" selection-end="907" vertical-scroll-proportion="-0.8888889" vertical-offset="879" max-vertical-offset="1887" />
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c312d53e/9c62a7f2-2d48-4045-b860-2c4be877f5e0/emst..rb_vistit_targets">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c312d53e/9c62a7f2-2d48-4045-b860-2c4be877f5e0/emst..rb_doc_types">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c312d53e/9c62a7f2-2d48-4045-b860-2c4be877f5e0/emst..imp_addr">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/c312d53e/9c62a7f2-2d48-4045-b860-2c4be877f5e0/emst..imp_clients">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/reg/case_edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="283" column="0" selection-start="14525" selection-end="14525" vertical-scroll-proportion="0.0" vertical-offset="4364" max-vertical-offset="4913">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/filling_field.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="37" selection-start="124" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="952">
+          <folding>
+            <marker date="1391529120533" expanded="true" signature="274:933" placeholder="SELECT imp_c..imp_clients..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/output_data_from_bd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="8" selection-start="305" selection-end="306" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1173">
+          <folding>
+            <marker date="1391529120538" expanded="true" signature="828:925" placeholder="SELECT id, l..imp_clients..." />
+            <marker date="1391529120538" expanded="false" signature="1072:1116" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/autocompl_lastname.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="18" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="35" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg/search_client_popup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="58" selection-start="3354" selection-end="3354" vertical-scroll-proportion="0.52641165" vertical-offset="765" max-vertical-offset="4216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

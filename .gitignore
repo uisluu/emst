@@ -1,0 +1,5 @@
+*.sql
+*.sav
+scripts/jquery/
+scripts/jquery-ui-1.10.4.custom/
+
